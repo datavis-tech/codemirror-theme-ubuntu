@@ -10,5 +10,9 @@
     "CodeMirror"
   ],
   "author": "Curran Kelleher",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "github:datavis-tech/codemirror-theme-ubuntu"
+  }
 }
