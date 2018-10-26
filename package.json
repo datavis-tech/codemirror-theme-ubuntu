@@ -1,0 +1,14 @@
+{
+  "name": "codemirror-theme-ubuntu",
+  "version": "1.0.0",
+  "description": "A theme for CodeMirror that approximates Vim in Ubuntu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CodeMirror"
+  ],
+  "author": "Curran Kelleher",
+  "license": "MIT"
+}
