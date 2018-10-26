@@ -1,6 +1,6 @@
 {
   "name": "codemirror-theme-ubuntu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A theme for CodeMirror that approximates Vim in Ubuntu.",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "Curran Kelleher",
   "license": "MIT",
   "repository": {
-    "type" : "git",
-    "url" : "github:datavis-tech/codemirror-theme-ubuntu"
+    "type": "git",
+    "url": "github:datavis-tech/codemirror-theme-ubuntu"
   }
 }
