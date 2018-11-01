@@ -22,8 +22,13 @@
 .cm-keyword,
 .cm-comment,
 .cm-bracket,
-.cm-attribute {
+.cm-attribute,
+.CodeMirror-matchingbracket {
   color: #34e2e2; /* neon blue */
+}
+
+.CodeMirror-matchingbracket {
+  font-weight: bold;
 }
 
 .cm-keyword {
